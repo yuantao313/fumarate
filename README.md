@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🌟 **My Skills**
+
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shigure19&show_icons=true&theme=radical)
+
+
 <!--
 **Shigure19/Shigure19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
