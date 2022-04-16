@@ -7,6 +7,16 @@
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 
 <!--START_SECTION:waka-->
+
+```text
+Python           7 hrs 17 mins   ███████████████████▓░░░░░   78.42 %
+JavaScript       42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+Java             34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Markdown         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+JSON             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+R                6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+```
+
 <!--END_SECTION:waka-->
 
 
