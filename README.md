@@ -6,7 +6,8 @@
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shigure19&show_icons=true&theme=radical)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!--
