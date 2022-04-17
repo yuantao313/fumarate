@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello, world.
+
+🏫 I' m majoring in bioscience in ECUST and learning computer science by myself.
+🌏 I' m trying to make the world and our lives better by my technology.
+🧬 I' m dreaming to explict the meaning of genome with computer in bottom-up strategy.
 
 🌟 **My Skills**
 
