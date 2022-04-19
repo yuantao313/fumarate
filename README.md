@@ -6,6 +6,10 @@
 
 🧬 I' m dreaming to explict the meaning of genome with computer in bottom-up strategy.
 
+🔡 **What I am learning**
+
+Java/Reverse/Database
+
 🌟 **My Skills**
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
