@@ -8,7 +8,7 @@
 
 🔡 **What I am learning**
 
-Java/Reverse/Database
+Java/Reverse/Database/R
 
 🌟 **My Skills**
 
