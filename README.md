@@ -6,19 +6,11 @@
 
 🧬 I' m dreaming to explict the meaning of genome with computer in bottom-up strategy.
 
-🔡 **What I am learning**
+💻 My development environment
 
-Java/Reverse/Database/R
+Fedora 36 Workstation
 
-🌟 **My Skills**
-
-![](https://img.shields.io/badge/-Python-FFD43B?logo=python&labelColor=306998&logoColor=FFF)
-![](https://img.shields.io/badge/-Linux-000000?logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-Docker-FFF?logo=Docker&labelColor=2496ED&logoColor=fff)
-![](https://img.shields.io/badge/-Java-f89820?logo=java&labelColor=5382a1&logoColor=fff)
-![](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&labelColor=F29111&logoColor=FFF)
-![](https://img.shields.io/badge/-Vue-34495E?logo=vue.js&labelColor=41B883&logoColor=FFF)
-![](https://img.shields.io/badge/-SpringBoot-FFF?logo=SpringBoot&labelColor=6DB33F&logoColor=FFF)
+VSCode/IntelliJ IDEA Ultimate
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
