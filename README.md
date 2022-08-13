@@ -6,50 +6,6 @@
 
 🧬 I' m dreaming to explict the meaning of genome with computer in bottom-up strategy.
 
-💻 My development environment
-
-Fedora 36 Workstation
-
-VSCode/IntelliJ IDEA Ultimate
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    63 commits     ███████░░░░░░░░░░░░░░░░░░   27.75% 
-🌆 Daytime    60 commits     ██████░░░░░░░░░░░░░░░░░░░   26.43% 
-🌃 Evening    74 commits     ████████░░░░░░░░░░░░░░░░░   32.6% 
-🌙 Night      30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 12/06/2022 01:54:20 UTC
-<!--END_SECTION:waka-->
-
-
 <!--
 **Shigure19/Shigure19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
